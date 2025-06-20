@@ -1,5 +1,12 @@
 [
   {
+    "name": "And hopefully, they even get updated without rebuild!",
+    "description": "Hello! Can you hear me?",
+    "time": "250620-13:33",
+    "icon": "💬",
+    "color": "#FFa0a0"  
+  },
+  {
     "name": "News are now shared world-wide!",
     "description": "Hello! Can you hear me?",
     "time": "250620-13:30",
