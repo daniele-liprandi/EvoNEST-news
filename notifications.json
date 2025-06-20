@@ -1,0 +1,72 @@
+[
+  {
+    "name": "News are now shared world-wide!",
+    "description": "Hello! Can you hear me?",
+    "time": "250620-13:30",
+    "icon": "💬",
+    "color": "#FFa0a0"  
+  }
+  {
+    "name": "Add photos to samples and traits",
+    "description": "A new orange button stares at you on the sample page!",
+    "time": "241204-18:30",
+    "icon": "📸",
+    "color": "#FFa000"
+  },
+  {
+    "name": "Make your own plots",
+    "description": "We have integrated a chart generator that allows you to make your own data analysis! Go to Traits➡️Graph generator",
+    "time": "240930-13:30",
+    "icon": "📈",
+    "color": "#FFa000"
+  },
+  {
+    "name": "The world is yours!",
+    "description": "We have added a map to the main page, so you can see where your samples are coming from!",
+    "time": "240814-16:30",
+    "icon": "🌍",
+    "color": "#FFa000"
+  },
+  {
+    "name": "Traits of subsamples",
+    "description": "When you click on a sample, and then select 'see sample traits', you will now see the traits of the subsamples too",
+    "time": "240814-15:30",
+    "icon": "🚸",
+    "color": "#FFa000"
+  },
+  {
+    "name": "Better plots!",
+    "description": "Mechanical curves now are better looking, with smart colouring depending on the checkboxes!",
+    "time": "240809-10:30",
+    "icon": "📈",
+    "color": "#00C9A7"
+  },
+  {
+    "name": "New home page",
+    "description": "We have re-done the home page, so that new users can peak into the most important features",
+    "time": "240805-19:35",
+    "icon": "🏠",
+    "color": "#FFa000"
+  },
+  {
+    "name": "File upload",
+    "description": "We have added a new file upload feature!",
+    "time": "240803-15:35",
+    "icon": "📁",
+    "color": "#FFa000"
+  },
+  {
+    "name": "Choose your samples!",
+    "description": "You can select what mechanical tests to plot thanks to the new interactive checkboxes!",
+    "time": "240801-15:35",
+    "icon": "✅",
+    "color": "#00C9A7"
+  },
+  {
+    "name": "Feed with QR codes!",
+    "description": "From the sample maintenance page you can now activate the QR code scanner and sequentially feed all your animals",
+    "time": "240715-15:35",
+    "icon": "🥕",
+    "color": "#FFa000"
+  }
+]
