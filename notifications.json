@@ -1,5 +1,12 @@
 [
   {
+    "name": "The first AI update!",
+    "description": "EvoNEST can now smartly filter your tables using natural english language!",
+    "time": "260521-16:50",
+    "icon": "✨",
+    "color": "#4902E8"
+  },
+  {
     "name": "Hello World!",
     "description": "EvoNEST is now openly distributed! You find us at https://daniele-liprandi.github.io/EvoNEST-backbone/",
     "time": "250725-14:53",
